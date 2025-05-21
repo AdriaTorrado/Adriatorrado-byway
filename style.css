@@ -1,5 +1,6 @@
 .dashboard{
     background-color: #4880FF;
+    text-decoration: none;
     color: #FFFFFF;
 }
 .flex{
@@ -22,4 +23,26 @@
 }
 .strong{
     font-weight: bold;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.pagActual{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+.colorAzul{
+    color: #4880FF;
+}
+.imagenFondo{
+    background-image: url('fondo.png');
+}
+#fondoNaranja{
+    background-color: #FF8743;
+    color: #FFFFFF;
+}
+.fondoGris{
+    background-color: #E2EAF8;
+    color: black;
 }
