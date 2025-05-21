@@ -1,0 +1,25 @@
+.dashboard{
+    background-color: #4880FF;
+    color: #FFFFFF;
+}
+.flex{
+    display: flex;
+}
+.colorGris{
+    color: #646464;
+}
+.colorVerde{
+    color: #00B69B;
+}
+.ColorRojo{
+    color: #F93C65;
+}
+#ent{
+    border: 1px ;
+    background-color: #00B69B;
+    color: #FFFFFF;
+    border-radius: 360px;
+}
+.strong{
+    font-weight: bold;
+}
